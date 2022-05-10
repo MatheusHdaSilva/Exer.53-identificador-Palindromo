@@ -1,0 +1,6 @@
+Criamos a variável para coletar a frase do usúario, usamos o strip para eliminar qualquer espaço,
+ deixado pelo usúario e o upper para deixar todas as letras miúsculas na resposta.
+Seguidamente, usamos um comando para separas as palavras da frase e pós isso Responder elas sem qualquer espaço.
+Agora fazemos o programa ler a frase ao contrario usando o for dando inicio a fazer menos um para não conbtar o espaço, 
+dando fim a letra menos 1 por conta da ultima letra ser 0, e vai voltando uma letra.
+para fazer a difença usamos o If e se o inverso for igual a frase normal ele é um palímetro ou não.
