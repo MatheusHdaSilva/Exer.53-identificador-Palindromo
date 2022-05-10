@@ -1,0 +1,2 @@
+Criamos a variável para coletar a frase do usúario, usamos o strip para eliminar qualquer espaço deixado pelo usúario e o upper para deixar todas as letras miúsculas na resposta.
+Seguidamente, usamos um comando para separas as palavras da frase e pós isso Responder elas sem qualquer espaço.
